@@ -1,0 +1,32 @@
+/* Estilo para el título */
+.title1 {
+    background-color: #2196F3;
+    text-align: center;
+    color: white;
+
+   
+}
+
+/* Estilo para name1 */
+.name1 {
+    color: green;
+    font-size: large;
+    text-align: center;
+    
+}
+
+/* Estilo para name2 */
+.name2 {
+    color: purple;
+    font-size: large;
+    text-align: center;
+    
+}
+
+/* Estilo para name3 */
+.name3 {
+    color: coral;
+    font-size: large;
+    text-align: center;
+    
+}
